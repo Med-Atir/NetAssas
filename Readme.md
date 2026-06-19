@@ -98,7 +98,7 @@ NetAssas/
 
 ## Auteurs & Remerciements
 
-* **Mohammed Atir** - *Ingénierie des données & Machine learning*
+* **Mohammed Atir** - *Data cleaning & Machine learning*
 * **Mehdi Saifie** - *Architecture Réseau & Developpement logiciel*
 
 Nous tenons à exprimer notre profonde gratitude au **Dr. Aaroud Abdessadek** pour son encadrement, sa rigueur scientifique et ses conseils avisés tout au long de la conception de ce projet.
