@@ -24,9 +24,10 @@ Projet de fin d'année réalisé au sein de la filière **Informatique Appliqué
 
 ---
 
-##  Installation & Utilisation (Utilisateurs Windows)
+##  Installation & Utilisation
 
 L'application a été empaquetée pour fonctionner de manière totalement autonome sur Windows, sans nécessiter l'installation de Python.
+la version linux sera disponible au futur inshallah.
 
 ### 1. Prérequis Obligatoire
 Pour que la capture de paquets réseau fonctionne sous Windows, vous **devez** avoir installé un pilote de capture réseau comme **Npcap** (généralement inclus avec Wireshark).
@@ -41,7 +42,7 @@ Pour que la capture de paquets réseau fonctionne sous Windows, vous **devez** a
 
 ---
 
-## Pour les Développeurs (Compilation Locale)
+## Pour les Développeurs
 
 Si vous souhaitez modifier le code source ou recompiler l'application vous-même :
 
